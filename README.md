@@ -23,10 +23,3 @@ https://github.com/sskp-kaushik/CSE546_CC_Project_2/tree/main/Edge
 Links to AWS Resources:
 Lambda Function URL: https://643yzh5h2cknqi7i2mxv3td2iy0kbwcj.lambda-url.us-east-1.on.aws/
 S3 Bucket Link: http://cc-2-37-bucket.s3-website-us-east-1.amazonaws.com
-
-IAM User (Common):
-Username: CSE546CCGroup37
-Password: CC@group37
-Account ID: 833595449650
-Access Key: AKIA4EFRJEEZLBRU5LG3
-Secret Key: 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
