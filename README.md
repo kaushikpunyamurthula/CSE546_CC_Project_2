@@ -1,4 +1,4 @@
-# CSE546_CC_Project_2 
+# Face Recognition as a Service
 
 Group 37
 Sai Surya Kaushik Punyamurthula - 1220096111
